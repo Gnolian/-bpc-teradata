@@ -1,5 +1,7 @@
 # Engenharia de dados e automação para benefícios assistenciais
 
+> **Versão de portfólio:** nomes de bases e tabelas, caminhos e cabeçalhos institucionais foram substituídos por exemplos. As consultas ilustram a implementação e precisam de adaptação a fontes autorizadas. Não há dados reais incluídos.
+
 Projetos em Python e SQL voltados à consulta, análise e produção de informações sobre benefícios assistenciais. O conjunto reúne aplicações web, cargas de dados, painéis e automações de relatórios, com Teradata como origem em diferentes rotinas.
 
 O objetivo deste portfólio é mostrar como transformei necessidades de consulta e processamento em código: preparar bases para uso local, organizar indicadores por território, automatizar tarefas recorrentes e conferir a consistência das entregas.

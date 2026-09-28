@@ -1,0 +1,19 @@
+[theme]
+base="dark"
+primaryColor="#2563eb"
+backgroundColor="#020817"
+secondaryBackgroundColor="#111827"
+textColor="#f8fafc"
+font="sans serif"
+
+[server]
+headless = true
+port = 8501
+address = "127.0.0.1"
+baseUrlPath = "beneficiarios"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showSidebarNavigation = false

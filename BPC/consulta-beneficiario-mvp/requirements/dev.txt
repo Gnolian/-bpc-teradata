@@ -1,0 +1,4 @@
+-r app.txt
+-r load.txt
+
+# Add test/lint tools here when the project starts using them.
